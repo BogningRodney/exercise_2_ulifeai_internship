@@ -3,7 +3,7 @@ import React from 'react'
 
 const FeatureSection = () => {
   return (
-    <section className='p-4'>
+    <section className='p-16'>
 
         <div className='my-6 max-w-[768px] mx-auto'>
             <h3 className='text-4 leading-6 text-center text-[#6941C6] my-6'>Features</h3>
